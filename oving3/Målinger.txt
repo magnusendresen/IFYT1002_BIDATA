@@ -1,0 +1,2 @@
+Raw Data_1.csv gjort med heis E fra E5 til E1 20 januar 2025
+Raw Data_2.csv gjort med heis E fra E1 til E4 20 januar 2025
